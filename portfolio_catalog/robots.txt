@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: www.photopmr.ru
+Sitemap: https://www.photopmr.ru/sitemap.xml
